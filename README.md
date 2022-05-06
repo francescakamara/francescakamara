@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @francescakamara
 - 👀 I’m interested in business analysis, strategy and business transformation. 
-- 🌱 I’m currently learning about the fundamentals of business analysis, including requirements gathering, agile vs waterfall methodologies and process maps. 
-- 💞️ I’m looking to collaborate on BA projects, and grow my network in the tech world. 
+- 🌱 I’m currently learning about the fundamentals of business analysis, including requirements gathering, agile vs waterfall methodologies, Jira and process maps. 
+- 💞️ I’m looking to transition into the world of tech, and looking grow my network as well as show some of the projects I am working on! 
+- 🌱 I also have a BCS Foundation qualification in Business Analysis.
 - 📫 How to reach me on francescakamara@gmail.com
 
 <!---
